@@ -1,22 +1,25 @@
 # Code of Conduct
 
 ## Our Pledge
-We pledge to make participation a harassment-free experience.
+We pledge to make participation a harassment-free experience for everyone.
 
 ## Our Standards
-Examples of positive behavior include using welcoming language.
+Examples of behavior that contributes to a positive environment include using welcoming language and being respectful of differing viewpoints.
 
 ## Enforcement Responsibilities
-Community leaders are responsible for enforcing standards.
+Community leaders are responsible for clarifying and enforcing our standards.
 
 ## Scope
-This Code of Conduct applies in all spaces.
+This Code of Conduct applies within all community spaces.
 
 ## Enforcement
-Abusive behavior may be reported.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to project leaders.
 
 ## Enforcement Guidelines
-Leaders will follow these guidelines.
+1. **Correction**: A private, written warning providing clarity on the nature of the violation.
+2. **Warning**: A warning with consequences for continued behavior.
+3. **Temporary Ban**: A temporary ban from any sort of interaction or communication with the community for a specified period of time.
+4. **Permanent Ban**: A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
-Adapted from Contributor Covenant 2.0.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
